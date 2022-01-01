@@ -1,0 +1,132 @@
+body{
+margin: 0%;
+padding: 0%;
+background-color: black;
+}
+
+nav{
+background-color: #480d96;
+height: 40px;
+position: fixed;
+top:0;
+width: 100%;
+padding: 5px;
+}
+
+li a{
+text-decoration: none;
+margin: 4%;
+color: #FFF;
+font-weight: bold;
+
+}
+
+li a:hover{
+color: #198754;   
+}
+
+li{
+/*padding-top: 0.7%; */
+margin-left: 65%;
+margin-top: -23px;
+}
+
+.content-body{
+text-align: center;
+background-color: #000;
+}
+
+
+
+h3{
+font-family: Arial, Helvetica, sans-serif;
+color:#FFF;
+}
+
+p{
+font-family: Arial, Helvetica, sans-serif;
+color: #FFF;
+}
+
+.content-cards{
+margin-left: 80px;
+margin-top: 20px;
+}
+
+.footer-text{
+font-family: Arial, Helvetica, sans-serif;
+color: #FFF;
+text-align: center;
+margin-top: 30px;
+}
+
+
+.texto-abaixo{
+text-align:center;
+margin-right: 120px;
+border: 5rem solid rgba(211, 211, 178, 0.178);
+border-radius: 50px 5px;
+
+}
+
+.btn{
+margin-top: 20px;
+}
+
+
+.linha{
+background-color: #FFF;
+}
+
+.linha1{
+color: #FFF;
+
+}
+
+label{
+font-family: Arial, Helvetica, sans-serif;
+color: #FFF;
+
+}
+
+
+.formGeral{
+padding-top: 5px;
+
+}
+
+
+li{
+list-style: none;
+
+}
+
+
+.bi{
+margin-right: 10px;
+
+}
+
+.teste{
+margin-left: 10px;
+
+}
+
+.nav-nome{
+font-family: Arial, Helvetica, sans-serif;
+color: #FFF;
+font-weight: bold;
+
+}
+
+.nav-nome:hover{
+color: black;
+cursor: pointer;
+
+}
+
+.nav-nome a{
+text-decoration: none;
+color: chartreuse;
+
+}
